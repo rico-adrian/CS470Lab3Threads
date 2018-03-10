@@ -1,0 +1,2 @@
+# CS470Lab3Threads
+Write a program in C/C++ handling a basic menu –in text mode, with 3 items (Problem 1, Problem 2, and Exit item. When the user selects Problem1 (typing 1 or 2 or 3 from the keyboard) the software should start running the problem 1. If the Problem2 menu item is selected, the problem 2 should run. The software should exist only if the Exit menu is selected. The problem 1 and problem 2 solutions should run as many times the user wishes. Problem
